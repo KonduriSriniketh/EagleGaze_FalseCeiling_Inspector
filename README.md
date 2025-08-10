@@ -1,4 +1,4 @@
-# Falcon_External_Inspector
+# EagelGaze_FalseCeiling_Inspector
 False Ceiling Reconstruction (Mapping). Point Cloud Comparison, Clustering with Bounding Boxes
 
 - Point Cloud Rescontruction
